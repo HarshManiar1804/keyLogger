@@ -1,8 +1,3 @@
-Here's a professional and informative `README.md` file for your GitHub repository, explaining the purpose and functionality of the keylogger script while including appropriate usage disclaimers:
-
----
-
-````markdown
 # Python Keylogger with Email Reporting
 
 > ⚠️ **Disclaimer**  
